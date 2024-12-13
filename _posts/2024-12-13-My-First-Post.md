@@ -2,7 +2,7 @@
 title: "My First Post"
 date: 2024-12-13
 author: "NateDhaliwal"
-tag: "general"
+tags: "general" "blog-post"
 ---
 
 <h1>Hi there, I'm NateDhaliwal!</h1>
