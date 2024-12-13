@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2024-12-13
-author: NateDhaliwal
+author: "NateDhaliwal"
 ---
 
 <h1>Hi there, I'm NateDhaliwal!</h1>
@@ -13,3 +13,7 @@ However, they killed their community, and as a ex-Junior Moderator on their supp
 <br><br>
 The Replit support forum was made using [Discourse](https://discourse.org), a super amazing 100% open-source and free forum software. They are very popular, and have pretty big companies as their customers. You can self-host your forum or host it with them (for a price). <br>
 I love Discourse and am a huge fan, so I'm building customizations like Theme Components and Themes. I enjoy the challenge, and since their codename is <big>HUGE</big>, I learn something new everyday.
+<br><br>
+I am a Python full-stack web developer. I know Python, HTML, CSS and JS. I'm currently learning SQL, to help manage databases more effectively.
+<br><br>
+I hope to upkeep this blog to continue posting blog posts. I hope I can be like Jeff Arwood one day, with his incredibly popular blog, [codinghorror](https://blog.codinghorror.com/).
