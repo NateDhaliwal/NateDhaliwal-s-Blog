@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Replit Killed Their Community"
 date: 2024-12-13
 author: NateDhaliwal
