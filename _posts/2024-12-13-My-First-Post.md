@@ -3,7 +3,7 @@ layout: post
 title: "My First Post"
 date: 2024-12-13
 author: "NateDhaliwal"
-tags: "general" "blog-post"
+tags: general blog-post
 ---
 
 <h1>Hi there, I'm NateDhaliwal!</h1>
