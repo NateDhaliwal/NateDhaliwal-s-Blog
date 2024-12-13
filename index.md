@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog!
+title: My First Post!
 ---
 
 # NateDhaliwal's Blog
