@@ -1,6 +1,7 @@
 ---
 title: Welcome to my blog!
+author: "NateDhaliwal"
 ---
 
 # NateDhaliwal's Blog
-<p>This is NateDhaliwal's Blog, where he is doing this using Jekyll and Github Pages. He's pretty new to this, and he tries to write blog posts frequently.</p>
+This is NateDhaliwal's Blog, where he is doing this using Jekyll and Github Pages. He's pretty new to this, and he tries to write blog posts frequently.
