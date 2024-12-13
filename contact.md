@@ -1,5 +1,5 @@
 ---
-title: Contact me
+title: Contact me!
 ---
 
 # You can contact me.
