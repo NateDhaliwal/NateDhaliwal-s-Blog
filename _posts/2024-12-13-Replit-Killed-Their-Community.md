@@ -3,7 +3,7 @@ title: "Replit Killed Their Community"
 layout: post
 date: 2024-12-13
 author: NateDhaliwal
-tags: replit
+category: replit
 ---
 
 <h1>How Replit Killed Their Community</h1>
