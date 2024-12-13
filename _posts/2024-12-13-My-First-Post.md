@@ -2,7 +2,7 @@
 title: "My First Post"
 date: 2024-12-13
 author: "NateDhaliwal"
-tags: general
+tag: general
 ---
 
 <h1>Hi there, I'm NateDhaliwal!</h1>
@@ -17,4 +17,4 @@ I love Discourse and am a huge fan, so I'm building customizations like Theme Co
 <br><br>
 I am a Python full-stack web developer. I know Python, HTML, CSS and JS. I'm currently learning SQL, to help manage databases more effectively.
 <br><br>
-I hope to upkeep this blog to continue posting blog posts. I hope I can be like Jeff Arwood one day, with his incredibly popular blog, [codinghorror](https://blog.codinghorror.com/).
+I hope to upkeep this blog to continue posting blog posts. I hope I can be like Jeff Atwood one day, with his incredibly popular blog, [codinghorror](https://blog.codinghorror.com/).
