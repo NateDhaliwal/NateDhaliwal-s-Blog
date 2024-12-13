@@ -1,6 +1,5 @@
 ---
 title: Welcome to my blog!
-author: "NateDhaliwal"
 ---
 
 # NateDhaliwal's Blog
