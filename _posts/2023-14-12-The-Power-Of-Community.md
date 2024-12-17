@@ -1,6 +1,6 @@
 ---
 title: The Power Of Communities
-date: 2024-14-12
+date: 2024-12-14
 author: NateDhaliwal
 category: community
 published: false
