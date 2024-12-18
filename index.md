@@ -8,13 +8,12 @@ This is NateDhaliwal's Blog, where he is doing this using Jekyll and Github Page
   {% for post in site.posts %}
     <li>
       <h2><a href="/blog/{{ post.url }}">{{ post.title }}</a></h2>
-      Posted on {{ post.date }}
       <br>
       {% for tag in post.tags %}
         <a href='/blog/tags#{{ tag }}'>{{ tag }}</a>
       {% endfor %}
       <br>
-      {{ post.excerpt | strip_html | truncatewords: 50 }}
+      <!--{{ post.excerpt | strip_html | truncatewords: 50 }}-->
     </li>
   {% endfor %}
 </ul>
