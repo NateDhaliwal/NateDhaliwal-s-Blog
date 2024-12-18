@@ -6,8 +6,8 @@ author: "NateDhaliwal"
 category: general
 ---
 <style>
-  p {
-    color: red;
+  .discourseMyBlogComments {
+    background-color: #fdfdfd;
   }
 </style>
 # Hi there, I'm NateDhaliwal!
