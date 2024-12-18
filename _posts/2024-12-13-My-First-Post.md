@@ -24,7 +24,13 @@ I am a Python full-stack web developer. I know Python, HTML, CSS and JS. I'm cur
 I hope to upkeep this blog to continue posting blog posts. I hope I can be like Jeff Atwood one day, with his incredibly popular blog, [codinghorror](https://blog.codinghorror.com/).
 
 
-<div id='discourse-comments' style='background-color: #fdfdfd;'></div>
+<div id='discourse-comments' style='background-color: #fdfdfd;'>
+  <style>
+    html.discourseMyBlogComments {
+      background-color: #fdfdfd;
+    }
+  </style>
+</div>
 <meta name='discourse-username' content='NateDhaliwal'>
 
 <script type="text/javascript">
