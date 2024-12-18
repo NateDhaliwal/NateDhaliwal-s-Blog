@@ -7,8 +7,9 @@ This is NateDhaliwal's Blog, where he is doing this using Jekyll and Github Page
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt | strip_html | truncatewords: 50}}
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <br />
+      {{ post.excerpt | strip_html | truncatewords: 50 }}
     </li>
   {% endfor %}
 </ul>
