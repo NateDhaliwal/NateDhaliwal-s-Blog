@@ -7,7 +7,7 @@ This is NateDhaliwal's Blog, where he is doing this using Jekyll and Github Page
 <ul>  
   {% for post in site.posts %}
     <li>
-      <h2><a href="/blog/post/{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="/blog/post{{ post.url }}">{{ post.title }}</a></h2>
       <br>
       {% for tag in post.tags %}
         <a href='/blog/tags#{{ tag }}'>{{ tag }}</a>
