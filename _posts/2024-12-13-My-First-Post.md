@@ -6,7 +6,7 @@ author: "NateDhaliwal"
 category: general
 ---
 
-<h1>Hi there, I'm NateDhaliwal!</h1>
+# Hi there, I'm NateDhaliwal!
 
 I'm NateDhaliwal. I'm starting this blog today! Allow me to introduce myself.
 <!--excerptend-->
