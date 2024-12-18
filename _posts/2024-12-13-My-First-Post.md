@@ -27,7 +27,7 @@ I hope to upkeep this blog to continue posting blog posts. I hope I can be like 
   DiscourseEmbed = {
     discourseUrl: 'https://urban-carnival-x5wxpxv7xxpxf67jq-4200.app.github.dev/',
     discourseEmbedUrl: 'https://natedhaliwal.github.io/blog/post/general/2024/12/13/My-First-Post.html',
-    // className: 'CLASS_NAME',
+    className: 'discourseMyBlogComments',
   };
 
   (function() {
