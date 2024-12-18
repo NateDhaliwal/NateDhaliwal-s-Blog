@@ -5,7 +5,11 @@ date: 2024-12-13
 author: "NateDhaliwal"
 category: general
 ---
-
+<style>
+  p {
+    color: red;
+  }
+</style>
 # Hi there, I'm NateDhaliwal!
 I'm NateDhaliwal. I'm starting this blog today! Allow me to introduce myself.
 <br><br>
