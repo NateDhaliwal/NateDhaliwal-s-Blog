@@ -8,7 +8,6 @@ category: general
 
 # Hi there, I'm NateDhaliwal!
 I'm NateDhaliwal. I'm starting this blog today! Allow me to introduce myself.
-<!--excerptend-->
 <br><br>
 I am an avid Replit user. [Replit](https://replit.com) is an amazing IDE that's on the cloud. I use it a lot for my projects and development. It has some great guides, and supports a <big>HUGE</big> number of programming languages too. <br>
 However, they killed their community, and as a ex-Junior Moderator on their support forum, which they removed, I feel saddened that users go to Stack Overflow as directed by Replit, but their topics are closed as they're not coding-related, but rather support-related questions.
@@ -20,13 +19,8 @@ I am a Python full-stack web developer. I know Python, HTML, CSS and JS. I'm cur
 <br><br>
 I hope to upkeep this blog to continue posting blog posts. I hope I can be like Jeff Atwood one day, with his incredibly popular blog, [codinghorror](https://blog.codinghorror.com/).
 
-<style>
-  div#discourse-comments {
-    background-color: #fdfdfd;
-  }
-</style>
 
-<div id='discourse-comments'></div>
+<div id='discourse-comments' style='background-color: #fdfdfd;'></div>
 <meta name='discourse-username' content='NateDhaliwal'>
 
 <script type="text/javascript">
