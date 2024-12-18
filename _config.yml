@@ -6,7 +6,8 @@ permalink: /:categories/:year/:month/:day/:title/
 # excerpt_separator: <!--excerptend-->
 minima:
   skin: dark
-
+  social_links:
+    - { platform: github,  user_url: "https://github.com/natedhaliwal/natedhaliwal" }
 
 show_excerpts: true
 JEKYLL_ENV: production
