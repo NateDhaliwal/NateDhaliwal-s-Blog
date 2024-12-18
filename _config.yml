@@ -5,6 +5,8 @@ description: This is NateDhaliwal's Blog, where he is doing this using Jekyll an
 permalink: /:categories/:year/:month/:day/:title/
 # excerpt_separator: <!--excerptend-->
 minima:
-  show_excerpts: true
+  skin: dark
 
+
+show_excerpts: true
 JEKYLL_ENV: production
