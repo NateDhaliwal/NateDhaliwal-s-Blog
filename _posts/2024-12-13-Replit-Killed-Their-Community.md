@@ -4,6 +4,8 @@ layout: post
 date: 2024-12-13
 author: NateDhaliwal
 category: replit
+tags: [rant, replit]
+readtime: true
 ---
 
 <h1>How Replit Killed Their Community</h1>
