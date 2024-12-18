@@ -12,6 +12,7 @@ readtime: true
 <sub>Disclaimer: All text here is strictly an opinion of NateDhaliwal. It does not represent the entire Replit community.</sub>
 <br><br>
 As briefly mentioned in my [first blog post](/NateDhaliwal-s-Blog/2024/12/13/My-First-Post.html), [Replit](https://replit.com) is an online IDE that uses cloud environments. They have a great IDE, and although they destroyed their free plan (a story for another post), they aren't *too* bad. <br>
+<!--excerptend-->
 They've slowly removed aspects of the community, starting with the ability to run repls (projects) from the Cover Page, then removing the ability to follow other users, and even removing the ability to comment on repls. <br>
 Slowly, users left Replit and less junior coders used it. Some users joined Replit Ask (the support forum/community for Replit), but most left. A large portion setup [AMC](https://amcforum.wiki), a community-run forum of users from Replit who left. <br>
 A while later, Replit shut down one of their most popular products, Teams for EDU, where teachers could teach coding to their students. No teacher was happy. There were many complaints and pleads to bring it back, some even saying that they would happily pay for it if it were brought back. However, this did not sway Replit's decision and another large chunk of Replit's users left. <br>
