@@ -8,7 +8,11 @@ This is NateDhaliwal's Blog, where he is doing this using Jekyll and Github Page
   {% for post in site.posts %}
     <li>
       <h2><a href="/blog/{{ post.url }}">{{ post.title }}</a></h2>
+      <br>
+      {{ post.author }}
+      <br>
       Tags: {{ post.tags }}
+      <br>
       {{ post.excerpt | strip_html | truncatewords: 50 }}
     </li>
   {% endfor %}
