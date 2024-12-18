@@ -7,7 +7,6 @@ category: general
 ---
 
 # Hi there, I'm NateDhaliwal!
-
 I'm NateDhaliwal. I'm starting this blog today! Allow me to introduce myself.
 <!--excerptend-->
 <br><br>
@@ -20,3 +19,20 @@ I love Discourse and am a huge fan, so I'm building customizations like Theme Co
 I am a Python full-stack web developer. I know Python, HTML, CSS and JS. I'm currently learning SQL, to help manage databases more effectively.
 <br><br>
 I hope to upkeep this blog to continue posting blog posts. I hope I can be like Jeff Atwood one day, with his incredibly popular blog, [codinghorror](https://blog.codinghorror.com/).
+
+<div id='discourse-comments'></div>
+<meta name='discourse-username' content='NateDhaliwal'>
+
+<script type="text/javascript">
+  DiscourseEmbed = {
+    discourseUrl: 'https://urban-carnival-x5wxpxv7xxpxf67jq-4200.app.github.dev/',
+    discourseEmbedUrl: '[EMBED_URL](https://natedhaliwal.github.io/blog/post/general/2024/12/13/My-First-Post/)',
+    // className: 'CLASS_NAME',
+  };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
