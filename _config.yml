@@ -3,4 +3,8 @@ author: NateDhaliwal
 title: NateDhaliwal's Blog
 description: This is NateDhaliwal's Blog, where he is doing this using Jekyll and Github Pages. He's pretty new to this, and he tries to write blog posts frequently.
 permalink: /:categories/:year/:month/:day/:title/
-excerpt_separator: <!--excerptend-->
+# excerpt_separator: <!--excerptend-->
+minima:
+  show_excerpts: true
+
+JEKYLL_ENV: production
