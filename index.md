@@ -3,7 +3,7 @@ title: Blog Home
 ---
 
 This is NateDhaliwal's Blog, where he is doing this using Jekyll and Github Pages. He's pretty new to this, and he tries to write blog posts frequently.
-
+<!--
 <ul>  
   {% for post in site.posts %}
     <li>
@@ -13,7 +13,8 @@ This is NateDhaliwal's Blog, where he is doing this using Jekyll and Github Page
         <a href='/blog/tags#{{ tag }}'>{{ tag }}</a>
       {% endfor %}
       <br>
-      <!--{{ post.excerpt | strip_html | truncatewords: 50 }}-->
+      {{ post.excerpt | strip_html | truncatewords: 50 }}
     </li>
   {% endfor %}
 </ul>
+-->
