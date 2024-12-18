@@ -6,7 +6,7 @@ author: "NateDhaliwal"
 category: general
 ---
 <style>
-  .discourseMyBlogComments {
+  html.discourseMyBlogComments {
     background-color: #fdfdfd;
   }
 </style>
